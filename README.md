@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **IOS app development**
 
-- 👯 I’m looking to collaborate on **Personalized Learning Difficulty Predictor for STEM Concepts**
-
 - 📫 How to reach me **ashu.61003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
