@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshsri123&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshsri123" /> </p>
 
-- 🔭 I’m currently working on **solar panel analytics & recommendation platform**
+- 🔭 I’m currently working on **Algorithm on Fuzzy Logic in Rainbow coloring**
 
 - 🌱 I’m currently learning **IOS app development**
 
