@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Algorithm on Fuzzy Logic in Rainbow coloring**
 
-- 🌱 I’m currently learning **IOS app development**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 📫 How to reach me **ashu.61003@gmail.com**
 
