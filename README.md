@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Srivastava</h1>
-<h3 align="center">A passionate developer from India with a strong focus on IOS App Development and Data analytics and a keen interest in emerging technologies like Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI.</h3>
+<h3 align="center">A passionate developer from India with a strong focus on IOS App Development and Data analytics and a keen interest in emerging technologies like Artificial Intelligence, Machine Learning and Deep Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshsri123&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshsri123" /> </p>
 
