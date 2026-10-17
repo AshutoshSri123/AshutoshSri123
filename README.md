@@ -1,29 +1,30 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Srivastava</h1>
-<h3 align="center">A passionate developer from India with a strong focus on IOS App Development and Data analytics and a keen interest in emerging technologies like Artificial Intelligence, Machine Learning and Deep Learning.</h3>
+# Ashutosh Srivastava
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshsri123&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshsri123" /> </p>
+**Associate Product Manager at Flurn · Product thinker & software builder**
 
-- 🔭 I’m currently working on **Algorithm on Fuzzy Logic in Rainbow coloring**
+I work at the intersection of product, research, and engineering. At Flurn, I work on the end-to-end product funnel for **Flurn Music**, collaborating with engineering, product, the co-founder, and sales to shape learning experiences and product workflows.
 
-- 🌱 I’m currently learning **IOS App Development**
+[Portfolio](https://ashutoshsrivastava.me) · [LinkedIn](https://www.linkedin.com/in/ashutosh-srivastava-892433226/) · [Email](mailto:ashu.61003@gmail.com) · [LeetCode](https://www.leetcode.com/user3715qn)
 
-- 📫 How to reach me **ashu.61003@gmail.com**
+## Product focus
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashutosh-srivastava-892433226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh-srivastava-892433226" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user3715qn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user3715qn" height="30" width="40" /></a>
-</p>
+- **Learning products:** user journeys, learning management systems, and end-to-end product workflows.
+- **Technical depth:** strengthening my understanding of APIs, databases, authentication, and system architecture.
+- **AI-native products:** exploring LLM applications, RAG, agents, and product evaluation as I grow toward AI Product Management.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Engineering toolkit
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AshutoshSri123&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AshutoshSri123&theme=codeSTACKr&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshSri123&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, Java, JavaScript, Swift, Kotlin, C / C++ |
+| Web & mobile | React, Vite, Tailwind CSS, SwiftUI, Jetpack Compose |
+| Backend & data | FastAPI, REST APIs, Firebase, SQLite, MySQL |
+| ML & AI | NumPy, Pandas, scikit-learn, TensorFlow, Keras, Core ML, LangChain, Hugging Face |
 
----
-[![](https://visitcount.itsvg.in/api?id=AshutoshSri123&icon=0&color=0)](https://visitcount.itsvg.in)
+## Background
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Flurn** — Associate Product Manager since August 2026, following a Product Management Internship.
+
+**VIT-AP** — B.Tech in Computer Science and Engineering, 2022–2026 · CGPA **8.72/10**.
+
+My repositories capture the software and experiments I build as I deepen my engineering skills and product judgment.
