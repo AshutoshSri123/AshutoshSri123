@@ -4,7 +4,7 @@
 
 I work at the intersection of product, research, and engineering. At Flurn, I work on the end-to-end product funnel for **Flurn Music**, collaborating with engineering, product, the co-founder, and sales to shape learning experiences and product workflows.
 
-[Portfolio](https://ashutoshsrivastava.me) · [LinkedIn](https://www.linkedin.com/in/ashutosh-srivastava-892433226/) · [Email](mailto:ashu.61003@gmail.com) · [LeetCode](https://www.leetcode.com/user3715qn)
+[Portfolio](https://ashutoshsrivastava.me/portfolio) · [LinkedIn](https://www.linkedin.com/in/ashutoshsri123) · [Email](mailto:ashu.61003@gmail.com)
 
 ## Product focus
 
@@ -16,8 +16,8 @@ I work at the intersection of product, research, and engineering. At Flurn, I wo
 
 | Area | Technologies |
 | --- | --- |
-| Languages | Python, Java, JavaScript, Swift, Kotlin, C / C++ |
-| Web & mobile | React, Vite, Tailwind CSS, SwiftUI, Jetpack Compose |
+| Languages | Python, Java, JavaScript, Swift, C / C++ |
+| Web & mobile | React, Vite, Tailwind CSS, SwiftUI |
 | Backend & data | FastAPI, REST APIs, Firebase, SQLite, MySQL |
 | ML & AI | NumPy, Pandas, scikit-learn, TensorFlow, Keras, Core ML, LangChain, Hugging Face |
 
